@@ -1,5 +1,2 @@
 - Hello, my name is Austin Greer!
-- 
 - I'm graduating from The Ohio State University in May 2023 with a Bachelor's Degree in Computer and Information Science.
--
--
