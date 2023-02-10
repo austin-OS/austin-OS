@@ -1,3 +1,3 @@
 - Hello, my name is Austin Greer!
 - I'm currently attending The Ohio State University.
-- I graduate in May 2023 with a Bachelor's Degree in Computer and Information Science.
+- I graduate in May 2023 with a bachelor's in Computer and Information Science.
